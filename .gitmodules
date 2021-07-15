@@ -1,0 +1,3 @@
+[submodule "extern/LuaJIT"]
+	path = extern/LuaJIT
+	url = https://github.com/LuaJIT/LuaJIT.git
